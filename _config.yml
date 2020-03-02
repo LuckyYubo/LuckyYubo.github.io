@@ -1,10 +1,10 @@
 # Site settings
 title: Yubo Huang
-SEOTitle: 黄宇波 | Yubo Huang
+SEOTitle: 黄宇波|Yubo Huang
 header-img: img/home-bg.jpg
 email: huangyubonwpu@126.com
 description: "Just go ahead"
-keyword: "强化学习 | 复杂网络"
+keyword: "强化学习|复杂网络"
 url: "https://luckyyubo.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
